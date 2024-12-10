@@ -1,3 +1,3 @@
 $(document).ready(function(){
-	console.log('yep')
+	console.log('yep bro')
 })
